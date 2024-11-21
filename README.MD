@@ -27,7 +27,7 @@ This is the first version of my personal homepage, a minimalistic and moody webs
 ## Limitations
 - No extensive content or interactivity yet, as this is just the first version.
 - The design is currently minimalistic, and the website will be updated to include more features and styles.
-
+-Not mobile friendly at all, need to fix that in future.
 ## Future Development
 - Refine and add more content to the homepage.
 - Enhance responsiveness for better mobile support.
